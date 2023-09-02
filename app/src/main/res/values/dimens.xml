@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="radius">9dp</dimen>
+    <dimen name="paddingPerson">10dp</dimen>
+    <dimen name="ivHeight">60dp</dimen>
+    <dimen name="deleteHeight">50dp</dimen>
+    <dimen name="editPadding">10dp</dimen>
+    <dimen name="editIvHeight">300dp</dimen>
+    <dimen name="editMarginTop">20dp</dimen>
+    <dimen name="editTextSize">18sp</dimen>
+</resources>

@@ -1,0 +1,16 @@
+plugins {
+	. . .
+    id 'kotlin-kapt'
+}
+
+
+dependencies {
+	. . .
+	// room
+	implementation "androidx.room:room-runtime:2.4.0"
+	kapt "androidx.room:room-compiler:2.4.0" 	
+
+	// picasso
+	implementation 'com.squareup.picasso:picasso:2.71828'
+	implementation 'jp.wasabeef:picasso-transformations:2.4.0'
+}
